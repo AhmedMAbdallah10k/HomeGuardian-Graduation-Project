@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "settings": "Settings",
+  "securityAndBiometrics": "Security and Biometrics",
+  "manageNotifications": "Manage Notifications",
+  "languageSettings": "Language Settings",
+  "chooseLanguage": "Choose Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "appTheme": "App Theme",
+  "savedOnDeviceOnly": "Language saved on this device. Only the home owner can update the home language for all devices.",
+  "languageUpdated": "Language updated",
+  "couldNotSaveLanguage": "Could not save language. Try again."
+}

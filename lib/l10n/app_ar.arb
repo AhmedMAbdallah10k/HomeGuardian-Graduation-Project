@@ -1,0 +1,14 @@
+{
+  "@@locale": "ar",
+  "settings": "الإعدادات",
+  "securityAndBiometrics": "الأمان والقياسات الحيوية",
+  "manageNotifications": "إدارة الإشعارات",
+  "languageSettings": "إعدادات اللغة",
+  "chooseLanguage": "اختر اللغة",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "appTheme": "مظهر التطبيق",
+  "savedOnDeviceOnly": "تم حفظ اللغة على هذا الجهاز فقط. يمكن لمالك المنزل فقط تحديث لغة المنزل لجميع الأجهزة.",
+  "languageUpdated": "تم تحديث اللغة",
+  "couldNotSaveLanguage": "تعذّر حفظ اللغة. حاول مرة أخرى."
+}
