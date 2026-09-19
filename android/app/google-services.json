@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661377955795",
+    "project_id": "homeguardian-98387",
+    "storage_bucket": "homeguardian-98387.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661377955795:android:5aee28f74c407182bb6126",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCD09mAzriidsmGIlpwqlVYXtkTY6BAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
