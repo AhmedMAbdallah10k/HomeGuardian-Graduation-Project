@@ -1,0 +1,26 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+pydantic==2.5.0
+python-multipart>=0.0.6
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+# tf_keras protobuf stubs need google.protobuf.runtime_version (protobuf 5.26+, not satisfied by 4.25 wheels that omit re-exports).
+protobuf>=5.26.0,<6
+mediapipe>=0.10.9
+websockets>=12.0
+deepface>=0.0.79
+tensorflow>=2.20.0
+tf-keras>=2.20.0
+pandas>=2.0.0
+mtcnn>=0.1.0
+retina-face>=0.0.14
+tqdm>=4.30.0
+passlib[bcrypt]>=1.7.4
+python-jose[cryptography]>=3.3.0
+firebase-admin>=6.5.0
+pycryptodome>=3.20.0
+
